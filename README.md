@@ -23,12 +23,11 @@ Este repositorio contiene el modelo entidad-relación (ER) para el escenario de 
    - **Nombre**: Nombre del empleado.
    - **Apellidos**: Incluye `Apellido1` y `Apellido2`.
    - **Teléfono**: Número de contacto del empleado.
-
-5. **Historial**
-   - **Código Vivero**: Referencia al vivero donde trabajó el empleado.
-   - **Código Zona**: Referencia a la zona donde trabajó el empleado.
-   - **Fecha Inicio** y **Fecha Fin**: Período de tiempo en el que el empleado trabajó en una determinada zona.
-   - **Productividad**: Medida de la productividad del empleado durante su estancia en la zona.
+   - **Historial**:
+      - **Código Vivero**: Referencia al vivero donde trabajó el empleado.
+      - **Código Zona**: Referencia a la zona donde trabajó el empleado.
+      - **Fecha Inicio** y **Fecha Fin**: Período de tiempo en el que el empleado trabajó en una determinada zona.
+      - **Productividad**: Medida de la productividad del empleado durante su estancia en la zona.
 
 6. **Cliente Fidelizado**
    - **DNI** (PK): Identificador único del cliente.
