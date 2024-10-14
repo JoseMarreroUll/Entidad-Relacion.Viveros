@@ -35,6 +35,7 @@ Este repositorio contiene el modelo entidad-relación (ER) para el escenario de 
    - **Teléfono**: Número de contacto del cliente.
    - **Fecha de ingreso al programa**: Fecha en la que el cliente se unió al programa Tajinaste Plus.
    - **Bonificación**: Beneficio que recibe el cliente en función del volumen de compras mensual.
+   - **Pedidos Totales**: Número de pedidos totales hecho por el cliente.
 
 7. **Pedido**
    - **Código** (PK): Identificador único de cada pedido.
